@@ -1,5 +1,11 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity
+<<<<<<< HEAD
 Hi this is Gina - edit v1.
 This line added to wolfman's copy.
+=======
+This line added to Wolfman's copy - Royston
+This line added to wolfman's copy
+Git init is a setting for a dad joke, init?
+>>>>>>> fefb3737d0d35c23af1e769edca8cd2b725733bb
