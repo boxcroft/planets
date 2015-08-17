@@ -1,0 +1,1 @@
+Asteroids zip around. Don't collide if you want to live.
