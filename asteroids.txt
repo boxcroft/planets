@@ -1,1 +1,2 @@
-Asteroids zip around. Don't collide if you want to live.
+Asteroids zip around. Don't collide with them if you want to live. The dude who landed that spacecraft in one had loads of tats.Good for him
+
